@@ -1,2 +1,3 @@
 CODE=true;
 ESSA=false;
+OGGG=true/false
